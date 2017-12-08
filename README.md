@@ -1,5 +1,4 @@
 # place2vec
-=============================================
 This repository provides the ground truth for comparing Point-Of-Interest(POI) type similarity and relatedness. The ground truth data is collected using Amazon Mechanical Turk Human Intelligence Task. Two types of tasks are use:
 1. Binary-based Task
 
@@ -11,6 +10,5 @@ This repository provides the ground truth for comparing Point-Of-Interest(POI) t
 
 This ground truth data can be used as baselines to evaluate models for POI type similarity measurements. If you use this dataset in your work, please kindly cite the paper in the reference section.
 
-### Reference
-----------------------
+## Reference
 Bo Yan, Krzysztof Janowicz, Gengchen Mai, and Song Gao. 2017. From ITDL to Place2Vec – Reasoning About Place Type Similarity and Relatedness by Learning Embeddings From Augmented Spatial Contexts. In Proceedings of SIGSPATIAL’17, Los Angeles Area, CA, USA, November 7–10, 2017, 10 pages. https://doi.org/10.1145/3139958.3140054
