@@ -1,4 +1,4 @@
-# place2vec
+# Place2Vec
 This repository provides the ground truth for comparing Point-Of-Interest(POI) type similarity and relatedness. The [ground truth data](https://github.com/BoYanSTKO/place2vec/blob/master/HIT.zip) is collected using Amazon Mechanical Turk Human Intelligence Task. Two types of tasks are use:
 1. Binary-based Task
 
