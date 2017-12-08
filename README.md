@@ -7,3 +7,7 @@ This repository provides the ground truth for comparing Point-Of-Interest(POI) t
 2. Ranking-based Task
 
    This task asks 25 human judges to rate the similarity from a scale of 1-7 between two place types. Assessment interface is specifically designed to adjust for the characteristics that human judgments of similarity are non-symmetric. 
+
+This ground truth data can be used as baselines to evaluate models for POI type similarity measurements. If you use this dataset in your work, please kindly cite the paper below.
+
+Bo Yan, Krzysztof Janowicz, Gengchen Mai, and Song Gao. 2017. Reasoning About Place Type Similarity and Relatedness by Learning Embeddings From Augmented Spatial Contexts. In Proceedings of ACM Sigspatial conference, Los Angeles, California USA, November 2017 (SIGSPATIAL’17), 11 pages. https://doi.org/10.475/123_4
