@@ -10,5 +10,5 @@ This repository provides the ground truth for comparing Point-Of-Interest(POI) t
 
 This ground truth data can be used as baselines to evaluate models for POI type similarity measurements. If you use this dataset in your work, please kindly cite the paper in the reference section.
 
-# Reference
+### Reference
 Bo Yan, Krzysztof Janowicz, Gengchen Mai, and Song Gao. 2017. Reasoning About Place Type Similarity and Relatedness by Learning Embeddings From Augmented Spatial Contexts. In Proceedings of ACM Sigspatial conference, Los Angeles, California USA, November 2017 (SIGSPATIAL’17), 11 pages. https://doi.org/10.475/123_4
