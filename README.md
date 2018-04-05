@@ -26,11 +26,8 @@ BibTeX:
  pages = {35:1--35:10},
  articleno = {35},
  numpages = {10},
- url = {http://doi.acm.org/10.1145/3139958.3140054},
- doi = {10.1145/3139958.3140054},
  acmid = {3140054},
  publisher = {ACM},
- address = {New York, NY, USA},
  keywords = {Geo-Semantics, Machine Learning, Points of Interest, Similarity},
 }
 ```
